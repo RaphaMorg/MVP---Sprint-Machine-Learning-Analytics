@@ -4,4 +4,4 @@ Este repositório contém o MVP desenvolvido para a Sprint 1, focado na criaçã
 
 O notebook foi desenvolvido e homologado para rodar diretamente no ecossistema do Google Colab. Para executar os experimentos, visualizar as tabelas comparativas de custo computacional e a matriz de confusão final, basta clicar no botão abaixo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelMorgado/Sprint1MVP/blob/main/Sprint1MVP.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1WMID8Q2amnNq4NhJq0jye-VrbNVT5jRr?usp=sharing)
